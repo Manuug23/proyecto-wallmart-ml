@@ -1,0 +1,2 @@
+*.pickle filter=lfs diff=lfs merge=lfs -text
+02_Datos/04_Caches/03_Trabajo/*.pickle filter=lfs diff=lfs merge=lfs -text
