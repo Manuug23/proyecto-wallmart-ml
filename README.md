@@ -1,5 +1,4 @@
 ## Proyecto wallmart
-# Título del Proyecto
 
 ## Descripción
 Este proyecto es un modelo de predicción de ventas semanales para una cadena de tiendas utilizando técnicas de machine learning. El objetivo es proporcionar a los gerentes una herramienta para gestión de inventario y planificación.
